@@ -1,12 +1,78 @@
 body{
   font-family: 'Open Sans', sans-serif;
+  background-color: #97E5EF;
 }
 
 .banner-background{
   background-color: #F7E8E3;
-  color:#000133
+  color:#000133;
 }
 
 .banner-content{
-  background-color: #D7AD9D;
+  background-color:#D9C6A5;
+}
+
+.nav-content{
+  background-color:#000133;
+  font-weight: bold;
+}
+
+.about-container{
+  background-color: #333333;
+  color:white;
+}
+
+.education-container{
+  background-color:#97E5EF;
+
+}
+
+.pink{
+  background-color: #900C3F;
+}
+.pink-font{
+  color:#900C3F
+}
+.circle{
+  background-color: #900C3F;
+  height:150px;
+  width:150px;
+  border-radius: 50%;
+}
+.project-container{
+  background-color: #333333;
+  color:white;
+}
+a{
+  color:#F0DECB;
+  
+}
+a:hover{
+  text-decoration: none;
+  color:white;
+  font-style: italic;
+}
+.contact{
+  background-color: #333333;
+  color:white;
+}
+.icons{
+  width:60px;
+  height:60px;
+  border-radius: 50%;
+  display:inline-block;
+  background-color: white;
+  color:black;
+  text-align: center;
+  font-size: 40px;
+}
+.icons:hover{
+  width:70px;
+  height:70px;
+  border-radius: 50%;
+  display:inline-block;
+  background-color: #97E5EF;
+  color: #900C3F;
+  text-align: center;
+  font-size: 50px;
 }
