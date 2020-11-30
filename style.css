@@ -18,7 +18,7 @@ body{
 }
 
 .about-container{
-  background-color: #333333;
+  background-color:#000133;
   color:white;
 }
 
@@ -40,7 +40,7 @@ body{
   border-radius: 50%;
 }
 .project-container{
-  background-color: #333333;
+  background-color: #000133;
   color:white;
 }
 a{
@@ -53,7 +53,7 @@ a:hover{
   font-style: italic;
 }
 .contact{
-  background-color: #333333;
+  background-color: #000133;
   color:white;
 }
 .icons{
@@ -61,18 +61,16 @@ a:hover{
   height:60px;
   border-radius: 50%;
   display:inline-block;
-  background-color: white;
-  color:black;
+  background-color: #000133;
+  color:white;
   text-align: center;
   font-size: 40px;
 }
 .icons:hover{
-  width:70px;
-  height:70px;
-  border-radius: 50%;
+  
   display:inline-block;
-  background-color: #97E5EF;
+  background-color: white;
   color: #900C3F;
   text-align: center;
-  font-size: 50px;
+  
 }
