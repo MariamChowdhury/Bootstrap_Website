@@ -44,7 +44,7 @@ body{
   color:white;
 }
 a{
-  color:#F0DECB;
+  color:#FFBEC5;
   
 }
 a:hover{
@@ -73,4 +73,10 @@ a:hover{
   color: #900C3F;
   text-align: center;
   
+}
+.nam{
+  font-style: italic;
+}
+.pinkz{
+  color:#FFBEC5;
 }
